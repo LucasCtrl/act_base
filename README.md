@@ -20,9 +20,9 @@ act -j <name-of-the-job> -P ubuntu-latest=lucasalt/act_base:latest
 
 ## 🤝 Contributing
 
-Before contributing to this project, make sure you have read the [contribution guidelines](https://github.com/start-again/start-abot/blob/main/CONTRIBUTING.md)!
+Before contributing to this project, make sure you have read the [contribution guidelines](https://github.com/LucasCtrl/act_base/blob/main/CONTRIBUTING.md)!
 
-1. Fork it (https://github.com/start-again/start-abot/fork)
+1. Fork it (https://github.com/LucasCtrl/act_base/fork)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
@@ -30,4 +30,4 @@ Before contributing to this project, make sure you have read the [contribution g
 
 ## 📝 License
 
-This project is open source and available under the [unlicense](https://github.com/start-again/start-abot/blob/master/LICENSE) license.
+This project is open source and available under the [unlicense](https://github.com/LucasCtrl/act_base/blob/master/LICENSE) license.
